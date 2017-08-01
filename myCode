@@ -1,0 +1,6 @@
+//Este es un ejemplo para el el repositorio
+FUNCION getUsers (id: entero): string
+  code line 1
+  code line 2
+  code line 3
+FIN FUNCION
