@@ -4,6 +4,7 @@ FUNCION getUsers (id: entero): string
   code line 2
   code line 3
   code line 4
-  
-  codeline 6
+  code line 5
+  code line 6
+
 FIN FUNCION
